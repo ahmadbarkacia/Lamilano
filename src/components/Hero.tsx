@@ -17,14 +17,14 @@ export default function Hero() {
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat transition-transform duration-100 sm:block hidden"
         style={{
-          backgroundImage: 'url(./public/backHero.png?auto=compress&cs=tinysrgb&w=1920)',
+          backgroundImage: 'url(/backHero.png?auto=compress&cs=tinysrgb&w=1920)',
           transform: `translateY(${scrollY * 0.5}px)`,
         }}
       ></div>
       <div
         className="absolute inset-0  bg-cover sm:bg-contain   bg-center bg-no-repeat transition-transform duration-100 "
         style={{
-          backgroundImage: 'url(./public/La_Milano_Cover.png?auto=compress&cs=tinysrgb&w=1920)',
+          backgroundImage: 'url(/La_Milano_Cover.png?auto=compress&cs=tinysrgb&w=1920)',
           transform: `translateY(${scrollY * 0.5}px)`,
         }}
       >
