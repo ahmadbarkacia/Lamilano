@@ -1,7 +1,7 @@
 import { Award, Users, TrendingUp, Shield } from 'lucide-react';
 import { useIntersectionObserver } from '../hooks/useIntersectionObserver';
 import { useLanguage } from '../contexts/LanguageContext';
-import hasImg from 'hasImg.png';
+import hasImg from '../../hasImg.png';
 
 export default function About() {
   const [ref, isVisible] = useIntersectionObserver({ threshold: 0.2 });

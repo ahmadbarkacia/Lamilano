@@ -1,8 +1,8 @@
 import { ChevronDown } from 'lucide-react';
 import { useEffect, useState } from 'react';
 import { useLanguage } from '../contexts/LanguageContext';
-import backHero from 'backHero.png';
-import La_Milano_Cover from 'La_Milano_Cover.png';
+import backHero from '../../backHero.png';
+import La_Milano_Cover from '../../La_Milano_Cover.png';
 
 export default function Hero() {
   const [scrollY, setScrollY] = useState(0);
