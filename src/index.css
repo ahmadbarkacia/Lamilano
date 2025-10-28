@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply font-body;
+  }
+}
+
+@layer utilities {
+  .text-gradient {
+    @apply bg-gradient-to-r from-amber-600 to-amber-400 bg-clip-text text-transparent;
+  }
+
+  .gold-shadow {
+    box-shadow: 0 4px 20px rgba(212, 175, 55, 0.3);
+  }
+
+  /* RTL Support */
+  [dir="rtl"] {
+    direction: rtl;
+  }
+
+  [dir="ltr"] {
+    direction: ltr;
+  }
+
+  /* RTL specific styles */
+  [dir="rtl"] .rtl\:text-right {
+    text-align: right;
+  }
+
+  [dir="rtl"] .rtl\:text-left {
+    text-align: left;
+  }
+
+  [dir="rtl"] .rtl\:ml-auto {
+    margin-left: auto;
+  }
+
+  [dir="rtl"] .rtl\:mr-auto {
+    margin-right: auto;
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "hero": {
+    "title": "La Milano Real Estate",
+    "subtitle": "Consultancy in Dubai",
+    "description": "Your Premier Partner in UAE Luxury Real Estate",
+    "bookConsultation": "Book a Consultation",
+    "viewProperties": "View Properties"
+  },
+  "about": {
+    "title": "About La Milano",
+    "subtitle": "Your Trusted Real Estate Partner",
+    "description": "With over 15 years of experience in Dubai's luxury real estate market, La Milano Real Estate Consultancy has been transforming property dreams into reality for international and local clients alike.",
+    "stats": {
+      "experience": "Years Experience",
+      "clients": "Happy Clients",
+      "sales": "In Sales",
+      "satisfaction": "Satisfaction",
+      "values": {
+        "experience": "15+",
+        "clients": "500+",
+        "sales": "AED 920M+",
+        "satisfaction": "100%"
+      }
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive Real Estate Solutions",
+    "items": {
+      "luxurySales": {
+        "title": "Luxury Property Sales",
+        "description": "Exclusive access to Dubai's most prestigious properties",
+        "features": [
+          "Market Analysis",
+          "Property Tours",
+          "Negotiation Support",
+          "Closing Assistance"
+        ]
+      },
+      "investment": {
+        "title": "Investment Advisory",
+        "description": "Strategic guidance for profitable real estate investments",
+        "features": [
+          "Property Valuation",
+          "Professional Photography",
+          "Digital Marketing",
+          "Open Houses"
+        ]
+      },
+      "propertyManagement": {
+        "title": "Property Management",
+        "description": "Complete property management and maintenance services",
+        "features": [
+          "Portfolio Analysis",
+          "Market Trends",
+          "ROI Projections",
+          "Risk Assessment"
+        ]
+      },
+      "consultation": {
+        "title": "Personal Consultation",
+        "description": "One-on-one guidance for your property journey",
+        "features": [
+          "Market Insights",
+          "Strategy Planning",
+          "Legal Guidance",
+          "Financial Planning"
+        ]
+      }
+    }
+  },
+  "properties": {
+    "title": "Featured Dubai Luxury Properties",
+    "subtitle": "Explore our handpicked selection of premium properties across Dubai and the UAE",
+    "features": {
+      "beds": "Beds",
+      "baths": "Baths",
+      "sqft": "sqft"
+    }
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "subtitle": "Real experiences from international and local clients who achieved their Dubai property dreams with La Milano",
+    "clients": [
+      {
+        "name": "Ahmed Al Mansouri",
+        "role": "Villa Buyer - Emirates Hills",
+        "text": "La Milano Real Estate Consultancy made our dream of owning a villa in Emirates Hills a reality. Their deep knowledge of Dubai's luxury market and attention to every detail was exceptional. Truly world-class service!"
+      },
+      {
+        "name": "James Richardson",
+        "role": "International Investor - UK",
+        "text": "As an overseas investor, I needed someone who understood both the UAE market and international requirements. La Milano delivered exceptional ROI analysis and helped me build a profitable Dubai portfolio. Outstanding!"
+      },
+      {
+        "name": "Fatima Hassan",
+        "role": "Penthouse Seller - Dubai Marina",
+        "text": "Selling our Dubai Marina penthouse was effortless with La Milano. Their strategic marketing attracted international buyers, and we received multiple offers above asking price within one week. Remarkable results!"
+      },
+      {
+        "name": "Sofia Petrov",
+        "role": "First-Time Buyer - Business Bay",
+        "text": "Moving to Dubai was overwhelming, but La Milano Real Estate Consultancy guided me through every step. From visa requirements to finding the perfect apartment in Business Bay, their expertise made everything seamless!"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Start Your Dubai Property Journey",
+    "subtitle": "Contact La Milano Real Estate Consultancy today for a personalized consultation",
+    "contactInfo": "Contact Information",
+    "office": "Office",
+    "phone": "Phone",
+    "email": "Email",
+    "form": {
+      "name": "Full Name",
+      "phone": "Phone Number",
+      "email": "Email Address",
+      "message": "Message",
+      "sendMessage": "Send Message"
+    }
+  },
+  "footer": {
+    "description": "Dubai's premier real estate consultancy. Transforming property dreams into reality across the UAE.",
+    "quickLinks": "Quick Links",
+    "followMe": "Follow Me",
+    "copyright": "© 2025 La Milano Real Estate Consultancy, Dubai, UAE. All rights reserved."
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "readMore": "Read More"
+  }
+}
