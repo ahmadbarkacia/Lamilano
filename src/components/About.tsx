@@ -1,6 +1,7 @@
 import { Award, Users, TrendingUp, Shield } from 'lucide-react';
 import { useIntersectionObserver } from '../hooks/useIntersectionObserver';
 import { useLanguage } from '../contexts/LanguageContext';
+import hasImg from 'hasImg.png';
 
 export default function About() {
   const [ref, isVisible] = useIntersectionObserver({ threshold: 0.2 });
@@ -21,7 +22,7 @@ export default function About() {
             <div className="relative">
               <div className="absolute -inset-4 bg-gradient-to-r from-amber-400 to-amber-600 rounded-2xl opacity-20 blur-xl"></div>
               <img
-                src="/hasImg.png?auto=compress&cs=tinysrgb&w=800"
+                src={`${hasImg}?auto=compress&cs=tinysrgb&w=800`}
                 alt="Real Estate Expert"
                 className="relative rounded-2xl shadow-2xl w-full object-cover h-[500px]"
               />
