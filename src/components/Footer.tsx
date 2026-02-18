@@ -54,7 +54,7 @@ export default function Footer() {
                 { Icon: Facebook, href: 'https://www.facebook.com/profile.php?id=61582407119140' },
                 { Icon: Instagram, href: 'https://www.instagram.com/lamilano.properties/' },
                 // { Icon: Twitter, href: '#' },
-                // { Icon: Linkedin, href: '#' },
+                { Icon: Linkedin, href: 'https://www.linkedin.com/company/111779520/admin/dashboard/' },
               ].map(({ Icon, href }, index) => (
                 <a
                   key={index}
